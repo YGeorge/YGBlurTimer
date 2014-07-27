@@ -3,7 +3,7 @@ YGBlurTimer
 
 YGBlurTimer is a custom UIView useful to represent timer as circle with blur background.
 
-It uses [MDRadialProgress] and [JCRBlurView]
+It uses [MDRadialProgress] and [JCRBlurView]:
 
 ![Screenshot](screenshot.png "Screenshot")
 
